@@ -1,0 +1,28 @@
+{
+    "name": "Migraine Diary",
+    "short_name": "Leviate",
+    "icons": [
+        {
+            "src": "images/cloud.jpg",
+            "sizes": "305x204",
+            "type": "image/jpg"
+        },
+        {
+            "src": "images/favicon.png",
+            "sizes": "288x288",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "images/favicon2.png",
+            "sizes": "1572x2030",
+            "type": "image/png",
+            "purpose": "any"
+        }
+    ],
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#333333",
+    "theme_color": "#84b280",
+    "description": "Migraine Diary App"
+}
